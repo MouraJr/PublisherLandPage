@@ -18,11 +18,11 @@ a:link {
   width: 100%;
   height: 90vh;
   position: relative;
-  background: url(/images/book-2.jpg) no-repeat center center/cover;
+  background: url(../images/book-2.jpg) no-repeat center center/cover;
 }
 
 .showcase::after {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -102,7 +102,7 @@ a:link {
   color: #ffffff;
   font-weight: 900;
   font-size: 3rem;
-  font-family: "Goudy Bookletter 1911", serif;
+  font-family: 'Goudy Bookletter 1911', serif;
   text-shadow: 2px 2px #000000e0;
   z-index: 2;
 }
@@ -111,7 +111,7 @@ a:link {
   color: #ffffff;
   font-weight: 600;
   font-size: 2rem;
-  font-family: "Handlee", cursive;
+  font-family: 'Handlee', cursive;
   text-shadow: 2px 2px #000000e0;
   z-index: 2;
 }
@@ -140,7 +140,7 @@ a:link {
   transition: 0.3s;
   margin: 0 6px;
   z-index: 1;
-  font-family: "DM Sans", sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.5rem;
   font-weight: 500;
   position: relative;
@@ -188,7 +188,7 @@ a:link {
 }
 
 .swiper-wrapper .slide1 {
-  background: url(/images/alem_do_sono_mockup.jpg) no-repeat center center/contain;
+  background: url(../images/alem_do_sono_mockup.jpg) no-repeat center center/contain;
 }
 
 .swiper-wrapper .slide1 a {
@@ -198,11 +198,11 @@ a:link {
 }
 
 .swiper-wrapper .slide2 {
-  background: url(/images/alem_do_sono_mockup_2.jpg) no-repeat center center/contain;
+  background: url(../images/alem_do_sono_mockup_2.jpg) no-repeat center center/contain;
 }
 
 .swiper-wrapper .slide3 {
-  background: url(/images/alem_do_sono_mockup_3.jpg) no-repeat center center/contain;
+  background: url(../images/alem_do_sono_mockup_3.jpg) no-repeat center center/contain;
 }
 
 /* Depoimentos */
